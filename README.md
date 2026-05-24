@@ -1,5 +1,4 @@
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write("""# Hi there, I'm Jan Wojnicki 👋
+# Hi there, I'm Jan Wojnicki 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Cybersecurity%20Engineering%20Student&fontSize=30&fontAlignY=35" />
@@ -50,4 +49,3 @@ I am a detail-oriented **Cybersecurity Master's student** at the Cracow Universi
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-""")
