@@ -11,7 +11,7 @@ I am a detail-oriented **Cybersecurity Master's student** at the Cracow Universi
 - 🔭 Currently specializing in **Cybersecurity**, with a focus on cloud security, automated incident response (SOAR), and infrastructure hardening.
 - 💼 Previously worked as a **Full-Stack Developer** where I focused on AppSec, secure API design, and strict input validation.
 - 🌍 Based in **Kraków, Poland**.
-- ⚡ **Fun fact:** When I'm not configuring a SIEM or securing web apps, you can find me training Muay Thai, focusing on natural bodybuilding, or planning my next high-end PC build.
+- ⚡ **Fun fact:** When I'm not configuring a SIEM or securing web apps, you can find me training Muay Thai, focusing on natural bodybuilding.
 
 ## 🛠️ Tech Stack & Tools
 
